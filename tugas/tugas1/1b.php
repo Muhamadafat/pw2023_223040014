@@ -1,11 +1,6 @@
 <?php
 
-$x = 14;
-
-$hasilkali = 5 * $x;
-$hasilbagi = $hasilkali / 2;
-$ditambah = $hasilbagi + 75;
-$dikurang = $ditambah - 20;
+$nrp = 14;
 
 ?>
 
@@ -22,11 +17,11 @@ $dikurang = $ditambah - 20;
 
 <body>
 
-    <p>Aku adalah angka <b><?php echo $x ?></b><br>
-        Jika aku dikali 5, maka aku sekarang menjadi <b><?php echo $hasilkali ?></b><br>
-        Jika aku dibagi 2, maka aku sekarang menjadi <b><?php echo $hasilbagi ?></b><br>
-        Jika aku ditambah 75, maka aku sekarang menjadi <b><?php echo $ditambah ?></b><br>
-        Jika aku dikurang 20, maka aku sekarang menjadi <b><?php echo $dikurang ?></b><br>
+    <p>Aku adalah angka <b><?php echo $nrp ?></b><br>
+        Jika aku dikali 5, maka aku sekarang menjadi <b><?php echo $nrp * 5 ?></b><br>
+        Jika aku dibagi 2, maka aku sekarang menjadi <b><?php echo 70 / 2 ?></b><br>
+        Jika aku ditambah 75, maka aku sekarang menjadi <b><?php echo 35 + 75 ?></b><br>
+        Jika aku dikurang 20, maka aku sekarang menjadi <b><?php echo 110 - 20 ?></b><br>
     </p>
 </body>
 
