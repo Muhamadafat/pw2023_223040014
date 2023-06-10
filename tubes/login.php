@@ -88,7 +88,7 @@ if (isset($_POST["submit"])) {
                     <div class="btn-cancel kanan21" style="margin-left: auto !important;
   font-size: 28px !important;
   margin-right: 10px !important;">
-                        <a href="../pw2023_tubes_223040014/index.php" onclick="return confirm('Apakah anda yakin ingin kembali?')"><i class="fas fa-times"></i></a>
+                        <a href="../pw2023_223040014/index.php" onclick="return confirm('Apakah anda yakin ingin kembali?')"><i class="fas fa-times"></i></a>
                     </div>
                     <h3 class="mb-4 text-center fs-1">Login</h3>
                     <form class="mb-3 " action="" method="post">

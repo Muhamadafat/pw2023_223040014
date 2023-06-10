@@ -61,7 +61,7 @@ if (isset($_POST["submit"])) {
         }
 
         body {
-            background-color: #CDC2AE;
+            background-color: #adabab;
         }
 
         .row {
@@ -69,11 +69,11 @@ if (isset($_POST["submit"])) {
         }
 
         .btn {
-            margin-left: 500px;
+            margin-left: 600px;
         }
 
         .btn2 {
-            margin-left: 290px;
+            margin-left: 350px;
             border-radius: 30px;
 
         }

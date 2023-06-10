@@ -86,15 +86,10 @@
 
     <!-- TULISAN ADD ARTIST -->
     <div class="add-artist no-print">
-        <div class="row">
-            <div class="col-md-6">
-
-                <br>
-                <a href="tambah.php" class="btn btn-dark">Add Artist Data</a>
-                <br>
-                <a href="index.php" class="btn btn-dark ">Home Page</a>
-            </div>
-        </div>
+        <br>
+        <a href="tambah.php" class="btn btn-dark">Add Artist Data</a>
+        <br>
+        <a href="index.php" class="btn btn-dark ">Home Page</a>
     </div>
     <br><br>
 
